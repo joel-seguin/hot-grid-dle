@@ -1,0 +1,19 @@
+
+
+html {
+  box-sizing: border-box;
+  font-family: 'Roboto Slab', serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+
+}
